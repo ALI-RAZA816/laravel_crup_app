@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Ayesha Khan",
+    "email": "ayesha.khan@example.com",
+    "phone": "0301-2345678",
+    "role": "Admin"
+  },
+  {
+    "name": "Bilal Ahmed",
+    "email": "bilal.ahmed@example.com",
+    "phone": "0333-4455667",
+    "role": "Editor"
+  },
+  {
+    "name": "Sara Malik",
+    "email": "sara.malik@example.com",
+    "phone": "0345-1122334",
+    "role": "Viewer"
+  },
+  {    
+    "name": "Usman Tariq",
+    "email": "usman.tariq@example.com",
+    "phone": "0312-9988776",
+    "role": "Editor"
+  },
+  {
+    "name": "Hira Siddiqui",
+    "email": "hira.siddiqui@example.com",
+    "phone": "0321-6677889",
+    "role": "Viewer"
+  },
+  {
+    "name": "Ahmed Raza",
+    "email": "ahmed.raza@example.com",
+    "phone": "0300-1234567",
+    "role": "Admin"
+  },
+  {
+    "name": "Zainab Farooq",
+    "email": "zainab.farooq@example.com",
+    "phone": "0334-5566778",
+    "role": "Viewer"
+  },
+  {
+    "name": "Hamza Sheikh",
+    "email": "hamza.sheikh@example.com",
+    "phone": "0315-2233445",
+    "role": "Editor"
+  },
+  {
+    "name": "Mahnoor Iqbal",
+    "email": "mahnoor.iqbal@example.com",
+    "phone": "0341-7788990",
+    "role": "Viewer"
+  },
+  {
+    "name": "Fahad Chaudhry",
+    "email": "fahad.chaudhry@example.com",
+    "phone": "0306-3344556",
+    "role": "Admin"
+  },
+  {
+    "name": "Rabia Nawaz",
+    "email": "rabia.nawaz@example.com",
+    "phone": "0322-8899001",
+    "role": "Editor"
+  },
+  {
+    "name": "Kamran Yousaf",
+    "email": "kamran.yousaf@example.com",
+    "phone": "0335-4433221",
+    "role": "Viewer"
+  },
+  {
+    "name": "Nimra Baig",
+    "email": "nimra.baig@example.com",
+    "phone": "0303-5566990",
+    "role": "Editor"
+  },
+  {
+    "name": "Waleed Hassan",
+    "email": "waleed.hassan@example.com",
+    "phone": "0316-1122778",
+    "role": "Admin"
+  },
+  {
+    "name": "Areeba Shah",
+    "email": "areeba.shah@example.com",
+    "phone": "0344-9900112",
+    "role": "Viewer"
+  }
+]
