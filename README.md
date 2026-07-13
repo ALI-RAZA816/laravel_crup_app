@@ -10,6 +10,11 @@ A simple CRUD (Create, Read, Update, Delete) application built with **Laravel 12
 - **Delete** — remove a record with a confirmation prompt
 - **Dashboard stats** — total records and a breakdown by role (Admin / Editor / Viewer)
 
+![image alt](https://github.com/ALI-RAZA816/laravel_crup_app/blob/ee0eee2ec34705c654a3a3120f52e0407e5b8866/public/1.PNG)
+![image alt](https://github.com/ALI-RAZA816/laravel_crup_app/blob/ee0eee2ec34705c654a3a3120f52e0407e5b8866/public/2.PNG)
+![image alt](https://github.com/ALI-RAZA816/laravel_crup_app/blob/ee0eee2ec34705c654a3a3120f52e0407e5b8866/public/3.PNG)
+![image alt](https://github.com/ALI-RAZA816/laravel_crup_app/blob/ee0eee2ec34705c654a3a3120f52e0407e5b8866/public/4.PNG)
+
 ## Tech Stack
 
 | Layer | Technology |
